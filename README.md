@@ -184,4 +184,10 @@ results/
 
 ## Tech Stack
 
-Python · N
+Python · NumPy · Network Analysis · Optimization Algorithms
+
+---
+
+## Notes
+
+This project was developed as part of a university assignment, with a focus on understanding heuristic and metaheuristic optimization techniques in graph-based problems.
